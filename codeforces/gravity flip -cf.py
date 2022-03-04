@@ -1,4 +1,5 @@
-import sys
+#problem can be found at https://codeforces.com/problemset/problem/405/A/
+
 num_col = input()
 str_input = input()
 

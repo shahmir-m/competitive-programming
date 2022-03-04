@@ -1,6 +1,5 @@
+#problem can be found at https://www.cses.fi/problemset/task/1193/
 
-from collections import deque
-import sys
 
 # get the input dimensions and labyrinth
 dimensions = input().split(' ')

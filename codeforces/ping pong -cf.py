@@ -1,7 +1,7 @@
 
+#problem can be found at https://codeforces.com/problemset/problem/320/B/
+
 from collections import deque
-
-
 class Node:
     def __init__(self,left,right):
         self.rn = right

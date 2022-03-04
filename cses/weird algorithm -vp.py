@@ -1,3 +1,5 @@
+#problem can be found at https://www.cses.fi/problemset/task/1068/
+
 cur_num = int(input())
 
 matrix = []

@@ -1,11 +1,11 @@
+#problem can be found at https://codeforces.com/problemset/problem/520/B/
+
 str_input = input()
 str_list = str_input.split(' ')
 #working backwards
 list = [int(num_string) for num_string in str_list]
 start = list[0]
 target = list[1]
-
-
 num_clicks = 0
 while(target != start):
     if(target < start):

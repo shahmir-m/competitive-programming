@@ -1,4 +1,6 @@
 
+#problem can be found at https://codeforces.com/contest/870/problem/B/
+
 n,k = (int(_) for _ in input().split(' '))
 arr = [int(num_string) for num_string in input().split()]
 
